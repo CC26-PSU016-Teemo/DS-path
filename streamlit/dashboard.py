@@ -3,9 +3,6 @@ import pandas as pd
 import plotly.express as px
 import os
 
-# ==========================================
-# 1. KONFIGURASI HALAMAN & TEMA MODERN
-# ==========================================
 st.set_page_config(
     page_title="Teemo Analytics Dashboard",
     page_icon="📈",
@@ -13,7 +10,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Integrasi Custom CSS untuk UI yang Bersih dan Elegan
 st.markdown("""
     <style>
     .main-title { font-size: 32px; font-weight: 800; color: #1E3A8A; margin-bottom: 5px; font-family: 'Helvetica Neue', sans-serif; }
@@ -25,9 +21,7 @@ st.markdown("""
 st.markdown('<div class="main-title">📈 Dashboard Analisis Ekosistem Kompetisi — Teemo</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Visualisasi interaktif berbasis data untuk optimasi fitur Rooms, segmentasi user, dan pemetaan harga pasar.</div>', unsafe_allow_html=True)
 
-# ==========================================
 # 2. LOAD DATA & AUTO-PREPROCESSING
-# ==========================================
 @st.cache_data
 def load_data():
     current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -50,9 +44,7 @@ except Exception as e:
     st.error("⚠️ File 'data_clean.csv' tidak ditemukan atau gagal dimuat. Letakkan file CSV di folder yang sama dengan dashboard.py.")
     st.stop()
 
-# ==========================================
 # 3. SIDEBAR FILTER INTERAKTIF
-# ==========================================
 st.sidebar.header("🎛️ Filter Panel")
 
 # Proses pemisahan jenjang jika ada koma (e.g. "Mahasiswa, Umum")
@@ -71,9 +63,7 @@ if pilihan_jenjang:
 else:
     df_filtered = df.copy()
 
-# ==========================================
 # 4. HIGHLIGHTS METRICS (KPI CARDS)
-# ==========================================
 kpi1, kpi2, kpi3 = st.columns(3)
 with kpi1:
     st.metric("Total Event Teranalisis", f"{len(df_filtered)} Kompetisi")
@@ -89,18 +79,14 @@ with kpi3:
 
 st.markdown("---")
 
-# ==========================================
 # 5. NAVIGASI TABS VISUALISASI MODERN
-# ==========================================
 tab1, tab2, tab3 = st.tabs([
     "👥 Pola Pasar & Segmentasi", 
     "🚀 Strategi Kampanye 'Rooms'", 
     "📊 Pemetaan Kategori & Finansial"
 ])
 
-# ------------------------------------------
 # TAB 1: POLA PASAR & SEGMENTASI
-# ------------------------------------------
 with tab1:
     st.subheader("Analisis Karakteristik dan Segmentasi Target Pasar")
     col1, col2 = st.columns(2)
@@ -137,9 +123,7 @@ with tab1:
 
     st.success("**💡 Kesimpulan Target Pasar:** Mayoritas ekosistem kompetisi didominasi kuat oleh segmen **Mahasiswa** dan **SMA/Sederajat**. Karena aksesibilitas pendaftaran didominasi metode digital (Online & Hybrid), disarankan desain antarmuka Teemo menonjolkan fitur koordinasi tim jarak jauh langsung di halaman utama.")
 
-# ------------------------------------------
 # TAB 2: STRATEGI KAMPANYE FITUR 'ROOMS'
-# ------------------------------------------
 with tab2:
     st.subheader("Prediksi Siklus Waktu Lonjakan Urgensi Partner Tim (Peak Season)")
     
@@ -166,9 +150,7 @@ with tab2:
 
     st.info("**🎯 Strategi Go-To-Market Fitur Rooms:** Grafik tren menunjukkan pembukaan kompetisi baru melonjak drastis di bulan **Maret** dan **April**. Mengingat pembentukan tim memerlukan waktu diskusi (pra-registrasi), kampanye pemasaran fitur **Rooms** sebaiknya diledakkan pada **Januari dan Februari** untuk mencuri start momentum urgensi user.")
 
-# ------------------------------------------
 # TAB 3: PEMETAAN KATEGORI & FINANSIAL
-# ------------------------------------------
 with tab3:
     st.subheader("Sebaran Finansial Daya Beli Berdasarkan Rumpun Kategori")
     
