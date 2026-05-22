@@ -1,13 +1,3 @@
-## 🎯 Latar Belakang Masalah
-
-Dataset ini dibuat oleh tim Data Science untuk mengatasi anomali kritis pada model rekomendasi Two-Tower TensorFlow milik tim AI Engineering. Sebelumnya, tim AI membuat data pelatihan dengan cara mengambil data lomba (item), menyuntikkan sedikit *noise*, lalu mengasumsikannya sebagai data preferensi user.
-
-Akibatnya, model mengalami kegagalan generalisasi dan hanya belajar bahwa **"vektor yang mirip dengan dirinya sendiri = cocok"**. Hal ini dibuktikan dari output inference di mana **semua skor keluar identik (`0.534875`)**, tidak peduli kombinasi user dan lomba apa yang diuji.
-
-Untuk mengatasinya, dataset `synthetic_users.csv` ini dirancang dengan menyajikan karakteristik *user* sesungguhnya yang bervariasi dan kontras, lengkap dengan panduan **Aturan Matching** untuk membentuk pasangan data pelatihan (user-item pairs) yang sehat dengan label `1` (positif) dan `0` (negatif).
-
----
-
 ## 📁 Struktur File & Aturan Kolom
 
 File yang dihasilkan adalah **`synthetic_users.csv`** (Berisi **1.500 baris data**, hasil dari 5 persona dasar × 300 variasi *user*).
