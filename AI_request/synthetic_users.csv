@@ -1,0 +1,1501 @@
+user_id,Biaya_Rata_Rata,Domain_Akademik,Domain_Bisnis_Karir,Domain_Olahraga_E-Sport,Domain_Seni_Kreatif,Domain_Teknologi,Domain_Umum_Lainnya,Jenjang_Encoded,Is_Online,Is_Offline,Persona_Name
+user_0001,15795,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0002,67221,0,1,0,1,1,0,4,0,1,Tech Mahasiswa Online
+user_0003,25658,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0004,69092,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0005,23483,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0006,40757,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0007,89789,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0008,48984,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0009,26854,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0010,10965,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0011,87054,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0012,67214,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0013,95259,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0014,6776,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0015,93557,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0016,93264,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0017,26309,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0018,80623,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0019,11411,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0020,85981,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0021,29855,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0022,32711,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0023,61135,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0024,70091,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0025,97888,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0026,43484,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0027,10492,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0028,72991,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0029,5801,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0030,70031,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0031,22677,0,0,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0032,87142,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0033,86672,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0034,94841,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0035,59638,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0036,29124,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0037,68385,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0038,49115,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0039,38304,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0040,88668,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0041,60692,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0042,88726,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0043,50517,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0044,60921,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0045,21545,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0046,72592,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0047,13807,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0048,26790,0,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0049,42344,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0050,22700,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0051,38413,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0052,23959,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0053,47605,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0054,70340,0,1,0,0,0,1,4,1,0,Tech Mahasiswa Online
+user_0055,62292,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0056,60100,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0057,45106,0,1,0,0,0,0,5,1,0,Tech Mahasiswa Online
+user_0058,94074,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0059,77709,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0060,83251,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0061,19963,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0062,80719,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0063,11314,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0064,91865,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0065,79104,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0066,4621,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0067,46271,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0068,7561,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0069,62981,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0070,27139,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0071,41427,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0072,46514,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0073,42533,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0074,5287,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0075,96573,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0076,87388,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0077,14060,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0078,67728,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0079,87487,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0080,2336,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0081,40631,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0082,71315,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0083,17368,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0084,55176,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0085,19256,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0086,40738,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0087,79026,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0088,27696,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0089,92374,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0090,38258,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0091,78623,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0092,55106,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0093,34911,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0094,4425,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0095,15358,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0096,17771,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0097,99608,0,1,0,0,1,0,4,0,1,Tech Mahasiswa Online
+user_0098,38243,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0099,29402,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0100,38709,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0101,28769,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0102,24058,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0103,13350,0,1,1,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0104,21520,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0105,58053,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0106,56276,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0107,51571,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0108,2983,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0109,74859,0,0,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0110,16371,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0111,12676,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0112,35400,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0113,29757,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0114,61665,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0115,30448,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0116,59720,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0117,42520,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0118,3020,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0119,92108,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0120,86206,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0121,92241,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0122,12987,1,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0123,26660,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0124,20953,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0125,44064,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0126,81958,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0127,93623,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0128,19982,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0129,36444,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0130,526,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0131,49268,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0132,6154,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0133,74319,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0134,88652,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0135,71626,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0136,25683,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0137,95081,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0138,28380,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0139,79561,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0140,47908,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0141,43585,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0142,57056,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0143,35133,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0144,64674,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0145,71260,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0146,55204,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0147,81537,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0148,25611,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0149,68785,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0150,23196,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0151,36487,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0152,26984,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0153,66024,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0154,3712,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0155,8927,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0156,35631,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0157,26966,0,1,0,1,1,1,4,1,0,Tech Mahasiswa Online
+user_0158,8906,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0159,13467,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0160,48713,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0161,21675,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0162,76153,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0163,88920,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0164,77231,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0165,4358,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0166,76329,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0167,72240,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0168,74069,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0169,42828,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0170,99983,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0171,56273,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0172,84328,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0173,65450,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0174,73165,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0175,48895,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0176,35298,0,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0177,11871,0,1,0,0,1,1,5,1,0,Tech Mahasiswa Online
+user_0178,39922,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0179,61588,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0180,41779,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0181,27605,0,1,0,1,1,0,3,1,0,Tech Mahasiswa Online
+user_0182,5542,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0183,4798,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0184,30620,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0185,89097,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0186,25431,0,1,0,0,0,1,4,1,0,Tech Mahasiswa Online
+user_0187,89570,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0188,28138,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0189,35144,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0190,25227,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0191,45000,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0192,61332,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0193,23911,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0194,55731,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0195,83986,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0196,49666,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0197,31656,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0198,36751,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0199,67364,0,0,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0200,36060,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0201,28731,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0202,81580,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0203,75564,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0204,95804,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0205,25122,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0206,15078,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0207,62424,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0208,9833,0,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0209,30682,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0210,22669,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0211,81912,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0212,71707,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0213,68673,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0214,59634,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0215,18133,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0216,91179,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0217,61001,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0218,6971,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0219,89087,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0220,54400,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0221,9752,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0222,645,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0223,69615,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0224,76975,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0225,10487,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0226,55077,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0227,56526,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0228,46738,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0229,15282,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0230,56307,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0231,11240,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0232,86710,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0233,44900,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0234,32174,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0235,61944,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0236,11190,0,1,0,0,0,1,4,1,0,Tech Mahasiswa Online
+user_0237,29033,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0238,17709,1,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0239,88296,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0240,81554,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0241,22432,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0242,23377,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0243,24306,0,1,0,0,1,0,5,1,0,Tech Mahasiswa Online
+user_0244,46619,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0245,2282,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0246,79285,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0247,52395,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0248,88503,0,1,1,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0249,44014,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0250,48515,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0251,91369,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0252,23173,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0253,3236,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0254,340,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0255,26762,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0256,80388,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0257,55690,0,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0258,56115,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0259,36593,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0260,82035,1,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0261,51919,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0262,81442,0,1,1,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0263,86156,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0264,48511,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0265,70721,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0266,68487,0,1,0,1,1,0,4,1,1,Tech Mahasiswa Online
+user_0267,61202,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0268,80909,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0269,12237,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0270,44757,0,1,0,1,1,0,4,1,0,Tech Mahasiswa Online
+user_0271,32402,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0272,32441,1,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0273,89963,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0274,80742,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0275,24972,0,1,0,0,1,0,4,1,1,Tech Mahasiswa Online
+user_0276,85896,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0277,33002,0,1,0,0,1,0,3,1,0,Tech Mahasiswa Online
+user_0278,8016,0,1,0,0,1,0,3,1,1,Tech Mahasiswa Online
+user_0279,15193,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0280,30116,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0281,52870,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0282,94108,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0283,74707,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0284,89388,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0285,23989,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0286,76721,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0287,43309,0,0,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0288,54110,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0289,63064,0,1,0,1,0,0,4,1,0,Tech Mahasiswa Online
+user_0290,14122,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0291,45242,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0292,24532,0,1,0,0,1,0,3,1,1,Tech Mahasiswa Online
+user_0293,68323,0,1,0,0,0,0,4,1,0,Tech Mahasiswa Online
+user_0294,3696,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0295,24729,0,1,0,0,0,1,4,1,0,Tech Mahasiswa Online
+user_0296,84700,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0297,45607,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0298,13869,0,1,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0299,62433,0,1,0,0,1,1,4,1,0,Tech Mahasiswa Online
+user_0300,37044,0,0,0,0,1,0,4,1,0,Tech Mahasiswa Online
+user_0301,88402,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0302,194228,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0303,52708,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0304,77128,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0305,145102,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0306,63050,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0307,193184,0,0,0,1,0,1,3,1,1,Kreator Seni SMA Offline
+user_0308,120305,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0309,181461,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0310,141649,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0311,122827,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0312,50887,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0313,184837,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0314,75991,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0315,168490,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0316,147718,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0317,178133,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0318,92137,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0319,110272,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0320,120821,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0321,180970,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0322,112943,0,1,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0323,136346,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0324,50869,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0325,141829,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0326,55668,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0327,81707,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0328,199524,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0329,107620,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0330,111753,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0331,126240,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0332,55520,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0333,91458,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0334,99298,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0335,58640,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0336,87158,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0337,115048,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0338,171948,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0339,54994,1,0,0,0,0,0,4,0,1,Kreator Seni SMA Offline
+user_0340,168094,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0341,129698,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0342,59277,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0343,118975,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0344,173099,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0345,134811,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0346,160986,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0347,152638,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0348,178585,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0349,140880,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0350,115901,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0351,85503,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0352,113344,0,0,0,1,1,0,3,1,0,Kreator Seni SMA Offline
+user_0353,156609,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0354,125324,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0355,172564,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0356,80908,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0357,134425,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0358,185601,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0359,69404,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0360,139049,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0361,155686,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0362,119341,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0363,133014,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0364,111799,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0365,94825,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0366,191407,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0367,75566,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0368,166841,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0369,115982,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0370,84700,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0371,159388,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0372,113909,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0373,170062,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0374,52985,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0375,136124,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0376,99649,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0377,167449,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0378,86639,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0379,163502,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0380,120453,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0381,192482,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0382,106889,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0383,62497,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0384,53358,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0385,94041,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0386,68782,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0387,121088,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0388,75464,0,0,1,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0389,92946,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0390,70922,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0391,60956,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0392,182659,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0393,152421,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0394,167509,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0395,179593,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0396,185693,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0397,125426,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0398,59343,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0399,186385,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0400,103218,0,0,1,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0401,148300,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0402,118207,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0403,93461,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0404,112993,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0405,135016,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0406,88346,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0407,153754,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0408,186949,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0409,166477,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0410,197044,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0411,62748,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0412,157445,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0413,107062,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0414,53748,0,1,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0415,127986,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0416,156511,0,0,0,1,0,0,4,0,1,Kreator Seni SMA Offline
+user_0417,133291,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0418,123034,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0419,164456,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0420,136483,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0421,136803,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0422,82083,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0423,129267,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0424,59615,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0425,129558,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0426,117789,0,1,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0427,93298,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0428,114427,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0429,139524,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0430,57371,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0431,198955,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0432,168920,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0433,150211,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0434,123369,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0435,65989,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0436,185705,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0437,195486,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0438,151894,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0439,130820,0,1,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0440,193314,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0441,159598,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0442,145761,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0443,126382,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0444,161361,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0445,91850,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0446,137902,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0447,156975,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0448,186587,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0449,107174,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0450,64308,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0451,119453,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0452,100494,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0453,175849,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0454,119806,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0455,59943,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0456,184034,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0457,91979,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0458,121576,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0459,133860,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0460,79320,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0461,101137,0,1,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0462,182450,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0463,177466,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0464,133791,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0465,116537,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0466,121833,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0467,55033,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0468,139385,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0469,194870,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0470,53084,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0471,181965,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0472,172374,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0473,60785,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0474,122573,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0475,92771,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0476,121916,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0477,84980,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0478,61516,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0479,87425,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0480,91984,0,0,0,1,0,0,4,0,1,Kreator Seni SMA Offline
+user_0481,103639,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0482,187521,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0483,138388,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0484,139813,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0485,118689,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0486,185639,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0487,148802,1,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0488,144000,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0489,88871,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0490,128282,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0491,116766,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0492,56464,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0493,146426,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0494,151010,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0495,64380,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0496,151444,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0497,157041,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0498,53174,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0499,197147,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0500,122902,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0501,54136,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0502,196768,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0503,181567,0,0,0,1,0,1,3,0,1,Kreator Seni SMA Offline
+user_0504,82363,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0505,171169,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0506,155315,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0507,191753,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0508,102344,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0509,65116,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0510,56447,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0511,166220,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0512,150435,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0513,86110,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0514,74054,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0515,155227,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0516,83541,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0517,190399,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0518,122534,0,0,0,0,0,0,3,1,1,Kreator Seni SMA Offline
+user_0519,58433,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0520,183851,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0521,149041,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0522,107939,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0523,164826,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0524,96330,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0525,109164,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0526,87860,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0527,183964,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0528,110101,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0529,85450,0,0,0,1,1,1,3,0,1,Kreator Seni SMA Offline
+user_0530,191835,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0531,92025,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0532,119202,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0533,165260,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0534,77675,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0535,71673,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0536,119351,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0537,110782,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0538,171648,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0539,155364,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0540,65366,1,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0541,116917,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0542,102797,0,0,0,0,0,1,3,0,1,Kreator Seni SMA Offline
+user_0543,135936,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0544,184515,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0545,198866,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0546,74502,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0547,168313,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0548,101962,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0549,152413,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0550,170507,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0551,145377,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0552,65867,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0553,86307,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0554,129872,0,1,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0555,194491,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0556,128137,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0557,132428,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0558,78552,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0559,92462,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0560,151121,1,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0561,173607,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0562,148943,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0563,90522,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0564,163034,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0565,74624,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0566,65994,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0567,135366,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0568,155185,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0569,194375,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0570,54042,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0571,193233,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0572,142244,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0573,196692,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0574,93162,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0575,79685,0,0,1,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0576,74143,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0577,169156,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0578,94678,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0579,128972,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0580,59583,0,1,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0581,96015,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0582,178949,0,0,0,1,0,0,3,1,0,Kreator Seni SMA Offline
+user_0583,91256,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0584,62191,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0585,108959,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0586,123169,0,0,0,1,0,0,3,1,1,Kreator Seni SMA Offline
+user_0587,145419,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0588,150846,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0589,78036,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0590,155585,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0591,76498,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0592,196115,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0593,71058,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0594,198620,0,0,0,0,0,0,3,0,1,Kreator Seni SMA Offline
+user_0595,156553,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0596,121805,0,0,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0597,52147,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0598,174232,0,0,0,1,1,0,3,0,1,Kreator Seni SMA Offline
+user_0599,81826,0,1,0,1,0,0,3,0,1,Kreator Seni SMA Offline
+user_0600,87387,0,0,0,1,0,0,2,0,1,Kreator Seni SMA Offline
+user_0601,141041,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0602,145457,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0603,80021,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0604,125580,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0605,149634,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0606,86148,0,0,1,0,1,0,3,0,1,Atlet SMP/SMA
+user_0607,33123,0,0,1,0,1,0,2,0,1,Atlet SMP/SMA
+user_0608,144575,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0609,77567,0,1,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0610,86394,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0611,5057,0,0,1,0,0,1,2,1,1,Atlet SMP/SMA
+user_0612,102302,0,0,0,0,1,0,3,1,0,Atlet SMP/SMA
+user_0613,127514,0,0,1,1,0,0,2,0,1,Atlet SMP/SMA
+user_0614,148115,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0615,93789,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0616,104647,0,0,1,0,0,1,2,1,1,Atlet SMP/SMA
+user_0617,97247,0,0,1,0,1,0,3,0,1,Atlet SMP/SMA
+user_0618,148465,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0619,35929,1,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0620,24976,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0621,73366,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0622,41954,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0623,102621,0,1,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0624,106410,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0625,92115,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0626,36021,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0627,125695,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0628,26393,0,0,0,0,0,0,3,1,0,Atlet SMP/SMA
+user_0629,118558,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0630,128921,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0631,140791,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0632,128692,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0633,3771,0,1,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0634,131001,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0635,101387,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0636,42399,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0637,141002,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0638,111266,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0639,7642,0,0,1,0,0,1,2,1,0,Atlet SMP/SMA
+user_0640,60030,0,0,1,1,0,0,3,1,1,Atlet SMP/SMA
+user_0641,22936,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0642,834,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0643,116908,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0644,86339,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0645,104292,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0646,118017,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0647,21630,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0648,15111,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0649,138562,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0650,52021,0,1,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0651,129999,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0652,30348,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0653,127152,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0654,80771,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0655,34268,0,0,1,1,0,1,2,0,1,Atlet SMP/SMA
+user_0656,27197,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0657,137345,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0658,145764,0,0,1,0,1,0,2,0,1,Atlet SMP/SMA
+user_0659,20842,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0660,91244,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0661,87421,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0662,38032,0,0,0,0,0,0,2,1,1,Atlet SMP/SMA
+user_0663,19787,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0664,121465,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0665,117491,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0666,100572,0,0,0,0,1,0,3,1,0,Atlet SMP/SMA
+user_0667,1909,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0668,88887,0,0,1,1,0,0,3,1,0,Atlet SMP/SMA
+user_0669,74554,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0670,17221,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0671,43601,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0672,141707,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0673,62672,0,0,1,0,1,0,3,1,1,Atlet SMP/SMA
+user_0674,99862,0,0,1,0,1,0,2,1,1,Atlet SMP/SMA
+user_0675,25958,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0676,5062,0,0,1,0,0,1,2,1,0,Atlet SMP/SMA
+user_0677,118428,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0678,85765,0,0,1,0,0,1,3,0,1,Atlet SMP/SMA
+user_0679,61914,0,1,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0680,91141,0,0,1,0,0,1,3,1,1,Atlet SMP/SMA
+user_0681,70799,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0682,46715,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0683,113815,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0684,141488,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0685,48075,0,0,1,0,1,0,3,0,1,Atlet SMP/SMA
+user_0686,93848,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0687,139565,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0688,135481,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0689,142658,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0690,9587,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0691,86784,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0692,34077,0,0,1,1,0,0,3,1,0,Atlet SMP/SMA
+user_0693,117399,0,1,1,0,0,1,2,0,1,Atlet SMP/SMA
+user_0694,129065,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0695,55,0,0,1,1,1,0,3,1,1,Atlet SMP/SMA
+user_0696,134704,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0697,60107,0,1,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0698,23762,0,1,1,0,1,0,3,1,0,Atlet SMP/SMA
+user_0699,72379,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0700,101551,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0701,147214,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0702,25761,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0703,149667,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0704,66354,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0705,22419,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0706,79360,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0707,36490,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0708,35524,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0709,25368,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0710,91679,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0711,125074,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0712,85192,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0713,102544,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0714,31385,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0715,34959,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0716,126913,0,0,1,1,1,0,3,0,1,Atlet SMP/SMA
+user_0717,84105,1,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0718,96494,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0719,16091,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0720,40612,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0721,87086,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0722,49228,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0723,33012,0,0,1,0,0,1,2,1,0,Atlet SMP/SMA
+user_0724,141463,0,0,1,1,0,0,3,1,0,Atlet SMP/SMA
+user_0725,9852,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0726,149277,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0727,33513,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0728,97367,1,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0729,99847,0,1,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0730,47598,0,0,1,0,1,0,2,1,0,Atlet SMP/SMA
+user_0731,51310,1,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0732,71688,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0733,36558,1,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0734,114634,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0735,137521,0,0,1,1,0,0,3,0,1,Atlet SMP/SMA
+user_0736,138518,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0737,119641,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0738,2402,0,1,0,0,0,0,3,1,0,Atlet SMP/SMA
+user_0739,62175,0,0,0,0,0,0,3,1,0,Atlet SMP/SMA
+user_0740,10839,0,0,0,0,0,0,2,0,1,Atlet SMP/SMA
+user_0741,63294,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0742,58643,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0743,22228,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0744,30615,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0745,55654,0,1,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0746,63295,0,1,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0747,64947,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0748,12755,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0749,34381,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0750,60653,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0751,142744,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0752,87228,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0753,80857,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0754,45798,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0755,99290,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0756,139011,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0757,7928,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0758,116378,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0759,96213,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0760,135797,0,0,1,0,1,0,3,0,1,Atlet SMP/SMA
+user_0761,143684,0,0,1,1,0,0,2,1,0,Atlet SMP/SMA
+user_0762,98560,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0763,89520,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0764,51248,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0765,134035,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0766,147702,1,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0767,128381,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0768,145439,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0769,65226,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0770,116850,0,0,0,0,0,0,2,1,0,Atlet SMP/SMA
+user_0771,101013,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0772,96188,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0773,108880,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0774,133692,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0775,48926,1,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0776,9834,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0777,104194,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0778,9386,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0779,1074,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0780,115188,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0781,37251,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0782,143572,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0783,68754,0,0,1,1,0,0,3,0,1,Atlet SMP/SMA
+user_0784,135222,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0785,123351,1,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0786,43744,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0787,126865,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0788,119712,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0789,59155,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0790,102395,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0791,77256,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0792,36948,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0793,88553,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0794,47367,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0795,147298,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0796,19937,0,0,1,0,1,0,2,1,0,Atlet SMP/SMA
+user_0797,27050,0,0,1,0,1,0,2,1,0,Atlet SMP/SMA
+user_0798,12076,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0799,103088,0,0,1,1,0,0,3,0,1,Atlet SMP/SMA
+user_0800,115377,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0801,34622,0,0,1,1,0,0,2,1,0,Atlet SMP/SMA
+user_0802,44871,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0803,11292,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0804,100588,0,0,1,0,1,0,2,0,1,Atlet SMP/SMA
+user_0805,64373,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0806,67264,0,0,1,0,0,1,3,0,1,Atlet SMP/SMA
+user_0807,37405,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0808,103021,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0809,94786,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0810,50624,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0811,4576,0,0,1,0,0,1,3,0,1,Atlet SMP/SMA
+user_0812,116189,0,0,0,0,0,0,3,0,1,Atlet SMP/SMA
+user_0813,29765,0,0,1,0,0,1,3,1,0,Atlet SMP/SMA
+user_0814,47655,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0815,87897,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0816,45278,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0817,31368,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0818,129651,1,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0819,146998,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0820,20169,0,0,1,0,0,1,2,1,1,Atlet SMP/SMA
+user_0821,49582,0,0,1,0,1,0,2,0,1,Atlet SMP/SMA
+user_0822,19689,0,0,0,0,0,0,3,0,1,Atlet SMP/SMA
+user_0823,20478,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0824,113561,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0825,129958,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0826,75851,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0827,121844,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0828,54796,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0829,64680,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0830,27114,0,0,1,1,0,0,3,1,1,Atlet SMP/SMA
+user_0831,7025,0,0,0,0,1,0,2,0,1,Atlet SMP/SMA
+user_0832,70765,1,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0833,1115,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0834,129000,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0835,129632,0,0,1,1,0,0,2,0,1,Atlet SMP/SMA
+user_0836,48591,0,0,1,1,1,0,2,1,0,Atlet SMP/SMA
+user_0837,92508,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0838,17140,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0839,107461,0,1,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0840,20637,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0841,102654,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0842,70467,0,0,0,0,0,0,2,0,1,Atlet SMP/SMA
+user_0843,101490,0,1,0,0,0,0,2,1,0,Atlet SMP/SMA
+user_0844,56782,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0845,62901,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0846,124338,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0847,73143,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0848,136427,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0849,66920,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0850,141554,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0851,95494,0,0,0,0,0,0,2,0,1,Atlet SMP/SMA
+user_0852,67061,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0853,53380,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0854,86593,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0855,135486,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0856,136817,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0857,94415,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0858,25395,0,0,1,1,0,0,2,0,1,Atlet SMP/SMA
+user_0859,106723,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0860,32833,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0861,22462,1,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0862,70077,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0863,116348,0,0,1,0,1,0,3,0,1,Atlet SMP/SMA
+user_0864,108730,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0865,51370,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0866,96950,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0867,22149,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0868,83211,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0869,50385,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0870,148346,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0871,1894,0,0,1,1,0,0,3,1,1,Atlet SMP/SMA
+user_0872,56697,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0873,38138,0,0,0,0,0,0,3,1,1,Atlet SMP/SMA
+user_0874,77108,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0875,62781,0,0,1,0,0,0,3,1,1,Atlet SMP/SMA
+user_0876,100061,1,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0877,136564,0,0,1,1,0,1,2,1,1,Atlet SMP/SMA
+user_0878,101732,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0879,139593,0,0,1,1,0,0,3,1,0,Atlet SMP/SMA
+user_0880,146930,0,0,0,0,0,0,3,1,1,Atlet SMP/SMA
+user_0881,128068,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0882,8328,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0883,35497,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0884,82494,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0885,91627,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0886,29655,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0887,23086,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0888,15487,0,0,1,0,0,0,2,1,1,Atlet SMP/SMA
+user_0889,131663,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0890,60110,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0891,99372,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0892,35053,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0893,26844,0,0,1,0,0,0,2,0,1,Atlet SMP/SMA
+user_0894,40581,1,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0895,124926,0,0,1,0,0,0,3,1,0,Atlet SMP/SMA
+user_0896,87493,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0897,75783,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0898,27180,0,0,1,0,0,0,3,0,1,Atlet SMP/SMA
+user_0899,98385,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0900,118368,0,0,1,0,0,0,2,1,0,Atlet SMP/SMA
+user_0901,41190,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_0902,292192,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0903,67021,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0904,62112,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_0905,235067,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0906,177043,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0907,108007,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0908,272459,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0909,169180,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0910,253978,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0911,27268,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0912,113259,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0913,245352,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_0914,54645,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0915,4791,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0916,219162,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0917,9304,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_0918,80722,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0919,246052,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0920,257471,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_0921,64450,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0922,274383,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0923,218417,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_0924,70729,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0925,259285,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0926,196322,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0927,19659,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0928,34579,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0929,278076,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0930,272667,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_0931,118643,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0932,145931,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0933,180076,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0934,271615,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0935,158069,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_0936,212139,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0937,286422,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0938,264509,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0939,278652,1,1,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_0940,11920,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0941,201447,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0942,65355,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0943,184681,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_0944,8798,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0945,110205,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0946,76215,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0947,165912,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0948,257249,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0949,186168,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0950,199521,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0951,108138,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0952,244533,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0953,214601,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0954,226812,1,0,0,0,0,0,4,0,1,Akademisi Mahasiswa
+user_0955,283083,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0956,62157,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0957,280027,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0958,20505,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0959,35079,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0960,36534,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0961,67470,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0962,2460,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0963,12204,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0964,103700,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0965,47003,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0966,31153,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0967,102652,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0968,159876,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0969,35577,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0970,220073,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0971,194760,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0972,112099,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0973,143279,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0974,219182,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0975,49294,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0976,246281,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_0977,54973,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0978,113922,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_0979,79599,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0980,241942,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0981,51458,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0982,35198,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0983,16740,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0984,58541,1,0,0,0,0,1,4,1,1,Akademisi Mahasiswa
+user_0985,255392,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0986,281892,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0987,284305,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0988,157998,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0989,219779,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0990,39986,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0991,944,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0992,290911,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0993,26467,0,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_0994,83697,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_0995,129686,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0996,128344,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_0997,162948,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_0998,57732,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_0999,115503,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1000,159245,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1001,265808,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1002,208196,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1003,11826,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1004,67309,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_1005,251749,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1006,91654,0,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1007,208467,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1008,149068,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1009,254322,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1010,106683,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1011,60481,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1012,44989,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1013,99599,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1014,271889,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1015,44397,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1016,56232,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1017,95424,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1018,81311,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1019,206422,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1020,161686,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1021,142857,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1022,132994,0,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1023,54604,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1024,159224,1,1,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1025,181644,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1026,94835,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_1027,199304,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_1028,207132,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1029,213739,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1030,275659,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1031,152802,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1032,270728,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1033,240746,1,0,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1034,43923,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1035,138783,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1036,130509,1,0,0,0,0,1,4,1,1,Akademisi Mahasiswa
+user_1037,262783,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1038,196879,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1039,141929,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1040,164340,1,0,0,0,0,1,3,1,0,Akademisi Mahasiswa
+user_1041,45,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1042,231897,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1043,110879,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1044,145109,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1045,149787,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1046,149748,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1047,248505,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1048,216249,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1049,123323,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1050,190732,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1051,154473,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1052,224321,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1053,50406,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1054,283317,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1055,176169,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1056,27684,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1057,45520,1,0,0,1,1,0,4,1,0,Akademisi Mahasiswa
+user_1058,290534,1,1,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1059,35568,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1060,266320,1,0,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1061,6611,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1062,118523,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1063,77228,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1064,234729,0,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1065,171955,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1066,207382,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1067,271952,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1068,120283,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1069,153535,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1070,63308,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1071,91665,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1072,179810,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1073,182296,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1074,233127,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1075,19416,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1076,195346,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1077,64471,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1078,223059,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1079,222129,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1080,134801,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1081,263369,1,0,1,0,0,1,4,1,1,Akademisi Mahasiswa
+user_1082,230677,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1083,250468,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1084,8539,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1085,225997,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1086,42597,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1087,238078,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1088,62708,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1089,275871,1,0,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1090,242821,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1091,234841,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1092,213877,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1093,180685,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1094,202945,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1095,93012,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1096,256760,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1097,57941,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1098,201750,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1099,146474,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1100,10662,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1101,10712,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1102,3052,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1103,146246,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1104,287514,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1105,242217,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1106,167061,1,1,1,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1107,280118,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1108,272392,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1109,147330,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1110,285840,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1111,299966,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1112,89590,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1113,150408,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1114,259383,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1115,152363,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1116,25301,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1117,280444,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1118,95259,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1119,104959,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1120,60664,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1121,268113,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1122,167022,1,0,0,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1123,118728,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1124,126951,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1125,36719,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1126,221798,1,0,1,0,0,0,3,1,0,Akademisi Mahasiswa
+user_1127,236591,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1128,241496,1,1,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_1129,3145,1,0,0,0,0,0,4,0,1,Akademisi Mahasiswa
+user_1130,285528,1,0,0,0,0,0,4,0,1,Akademisi Mahasiswa
+user_1131,90450,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1132,136080,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1133,83323,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1134,286045,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1135,128714,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1136,151168,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1137,201974,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1138,229333,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1139,89241,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1140,111119,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1141,124125,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1142,153290,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1143,189432,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1144,141140,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1145,251442,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1146,236576,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1147,202499,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1148,161233,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1149,265199,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1150,287871,1,0,0,0,1,1,4,1,0,Akademisi Mahasiswa
+user_1151,277873,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1152,79059,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1153,89363,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1154,243626,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1155,116360,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1156,201330,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1157,161080,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1158,202929,1,0,0,0,0,0,3,1,1,Akademisi Mahasiswa
+user_1159,53619,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1160,203474,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1161,103612,1,0,0,1,0,0,4,1,0,Akademisi Mahasiswa
+user_1162,183505,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1163,297486,1,1,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1164,241421,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1165,110572,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1166,148269,1,0,0,0,1,0,4,1,1,Akademisi Mahasiswa
+user_1167,115266,1,1,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1168,152215,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1169,211325,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1170,8382,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1171,156726,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1172,40751,1,0,0,1,0,0,4,1,1,Akademisi Mahasiswa
+user_1173,134757,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1174,297203,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1175,104599,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1176,241024,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1177,258897,1,0,0,0,1,0,4,1,0,Akademisi Mahasiswa
+user_1178,113076,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1179,182614,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1180,202682,1,1,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1181,130011,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1182,35575,0,0,0,0,0,0,5,1,0,Akademisi Mahasiswa
+user_1183,162717,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1184,158070,0,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1185,296505,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1186,253928,1,0,0,0,0,1,4,1,0,Akademisi Mahasiswa
+user_1187,287320,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1188,290449,1,0,0,0,0,0,5,0,1,Akademisi Mahasiswa
+user_1189,139322,1,0,1,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1190,147079,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1191,85186,1,0,0,0,0,0,4,1,1,Akademisi Mahasiswa
+user_1192,290894,1,0,0,1,0,1,4,1,0,Akademisi Mahasiswa
+user_1193,200741,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1194,219184,1,0,0,0,0,0,4,0,1,Akademisi Mahasiswa
+user_1195,118243,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1196,193366,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1197,221437,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1198,290658,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1199,24003,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1200,15329,1,0,0,0,0,0,4,1,0,Akademisi Mahasiswa
+user_1201,347560,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1202,191503,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1203,425033,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1204,167928,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1205,414763,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1206,112969,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1207,496029,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1208,407941,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1209,113867,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1210,125569,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1211,483671,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1212,59496,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1213,275648,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1214,380350,0,1,0,0,1,0,5,0,1,Bisnis/Karir Umum
+user_1215,207110,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1216,328456,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1217,434382,0,0,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1218,274842,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1219,496732,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1220,113165,0,0,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1221,77326,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1222,109919,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1223,94588,0,1,0,0,0,0,4,0,1,Bisnis/Karir Umum
+user_1224,130291,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1225,242796,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1226,82556,1,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1227,326463,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1228,428888,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1229,52596,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1230,453243,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1231,150960,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1232,456497,0,1,0,0,0,0,4,0,1,Bisnis/Karir Umum
+user_1233,116846,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1234,213148,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1235,424016,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1236,191248,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1237,253114,0,1,0,0,0,0,4,1,0,Bisnis/Karir Umum
+user_1238,187513,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1239,314509,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1240,233581,0,1,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1241,109353,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1242,62279,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1243,60663,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1244,89726,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1245,389805,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1246,88734,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1247,181438,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1248,436748,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1249,370404,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1250,164000,0,1,0,1,0,0,5,1,0,Bisnis/Karir Umum
+user_1251,348816,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1252,99282,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1253,228066,0,1,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1254,255103,0,1,0,1,0,0,5,1,0,Bisnis/Karir Umum
+user_1255,259944,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1256,449576,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1257,436413,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1258,170423,0,1,0,1,0,0,5,0,1,Bisnis/Karir Umum
+user_1259,205955,0,1,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1260,81147,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1261,271578,0,1,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1262,483927,0,1,0,0,0,1,4,1,0,Bisnis/Karir Umum
+user_1263,327004,0,0,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1264,281362,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1265,200933,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1266,119925,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1267,115994,0,1,0,1,0,0,4,1,1,Bisnis/Karir Umum
+user_1268,125842,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1269,171315,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1270,474749,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1271,381336,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1272,257526,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1273,485078,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1274,441212,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1275,286579,1,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1276,333197,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1277,401020,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1278,138529,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1279,175191,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1280,197083,0,1,0,0,1,1,5,1,1,Bisnis/Karir Umum
+user_1281,108900,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1282,399553,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1283,473345,0,1,1,0,0,0,4,1,0,Bisnis/Karir Umum
+user_1284,292046,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1285,344550,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1286,91516,0,1,0,0,0,0,4,0,1,Bisnis/Karir Umum
+user_1287,184718,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1288,273793,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1289,314208,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1290,433413,0,0,0,0,0,0,4,1,1,Bisnis/Karir Umum
+user_1291,100701,0,1,0,0,0,0,4,1,0,Bisnis/Karir Umum
+user_1292,120246,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1293,213024,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1294,55397,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1295,101786,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1296,119381,0,1,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1297,261470,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1298,95950,0,1,0,0,0,1,5,0,1,Bisnis/Karir Umum
+user_1299,147069,0,1,0,0,0,1,5,0,1,Bisnis/Karir Umum
+user_1300,458980,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1301,212867,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1302,144231,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1303,411416,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1304,284633,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1305,122663,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1306,450376,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1307,303189,0,1,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1308,295195,0,1,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1309,138378,0,1,0,1,0,0,5,1,0,Bisnis/Karir Umum
+user_1310,487166,0,1,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1311,230060,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1312,232538,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1313,487991,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1314,262736,0,0,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1315,333962,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1316,400549,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1317,195468,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1318,410981,0,0,0,1,0,0,5,0,1,Bisnis/Karir Umum
+user_1319,280099,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1320,410874,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1321,180860,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1322,474020,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1323,433094,1,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1324,471972,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1325,72277,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1326,378380,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1327,170918,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1328,196104,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1329,328169,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1330,259527,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1331,168278,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1332,52056,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1333,340299,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1334,414179,0,1,0,1,0,0,5,0,1,Bisnis/Karir Umum
+user_1335,96057,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1336,476409,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1337,409743,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1338,247385,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1339,149248,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1340,108914,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1341,181310,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1342,357963,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1343,478106,0,0,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1344,205205,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1345,65231,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1346,253441,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1347,301762,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1348,295392,0,1,0,0,1,0,5,0,1,Bisnis/Karir Umum
+user_1349,335346,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1350,375554,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1351,499450,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1352,222022,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1353,361890,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1354,454138,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1355,121895,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1356,131782,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1357,183672,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1358,231854,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1359,482014,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1360,357312,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1361,69575,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1362,162666,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1363,296257,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1364,422029,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1365,465099,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1366,261177,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1367,335154,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1368,482189,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1369,175662,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1370,397694,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1371,365596,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1372,159875,0,1,0,1,0,0,5,0,1,Bisnis/Karir Umum
+user_1373,102414,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1374,59605,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1375,188621,0,1,0,1,0,1,5,0,1,Bisnis/Karir Umum
+user_1376,149341,0,1,0,0,0,0,4,1,1,Bisnis/Karir Umum
+user_1377,135107,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1378,421266,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1379,437069,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1380,74406,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1381,275075,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1382,198608,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1383,190313,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1384,327143,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1385,375112,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1386,231894,0,1,0,0,0,1,5,0,1,Bisnis/Karir Umum
+user_1387,140933,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1388,319228,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1389,324089,0,0,0,0,1,1,5,1,1,Bisnis/Karir Umum
+user_1390,170384,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1391,93585,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1392,277391,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1393,425360,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1394,91559,0,0,1,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1395,408451,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1396,66057,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1397,425735,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1398,166972,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1399,273679,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1400,310851,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1401,458153,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1402,337502,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1403,167954,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1404,53415,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1405,268471,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1406,200250,0,1,0,0,0,1,5,1,1,Bisnis/Karir Umum
+user_1407,176866,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1408,90285,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1409,372828,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1410,195804,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1411,268422,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1412,314131,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1413,446605,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1414,360499,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1415,442297,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1416,356984,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1417,222097,0,1,0,1,0,1,5,1,0,Bisnis/Karir Umum
+user_1418,490415,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1419,238921,0,1,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1420,380433,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1421,447755,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1422,479586,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1423,329360,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1424,333076,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1425,322196,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1426,139831,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1427,306072,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1428,240606,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1429,336326,0,1,0,0,1,0,5,0,1,Bisnis/Karir Umum
+user_1430,98017,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1431,304743,0,1,0,0,0,0,4,1,1,Bisnis/Karir Umum
+user_1432,466333,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1433,331521,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1434,198673,0,1,1,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1435,115958,0,1,0,0,0,1,5,1,1,Bisnis/Karir Umum
+user_1436,338552,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1437,393929,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1438,297888,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1439,361146,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1440,236650,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1441,416233,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1442,404806,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1443,301287,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1444,180522,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1445,311882,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1446,147661,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1447,116535,0,0,1,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1448,278057,0,0,0,0,0,1,5,0,1,Bisnis/Karir Umum
+user_1449,329747,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1450,485946,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1451,446452,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1452,253056,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1453,225156,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1454,98648,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1455,175015,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1456,449034,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1457,178295,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1458,453976,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1459,101500,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1460,124300,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1461,347386,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1462,456743,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1463,472075,0,1,0,1,0,0,5,1,1,Bisnis/Karir Umum
+user_1464,180078,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1465,268906,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1466,149473,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1467,162363,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1468,79473,0,0,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1469,190842,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1470,395603,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1471,426823,0,1,0,0,1,0,5,1,0,Bisnis/Karir Umum
+user_1472,258320,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1473,182639,1,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1474,145352,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1475,120647,0,1,0,0,1,0,4,1,1,Bisnis/Karir Umum
+user_1476,273374,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1477,104203,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1478,470051,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1479,487951,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1480,451048,1,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1481,318688,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1482,87855,0,1,0,0,1,0,5,1,1,Bisnis/Karir Umum
+user_1483,424440,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1484,487760,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1485,427403,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1486,82202,0,1,1,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1487,238635,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1488,485294,0,1,0,0,0,0,4,1,1,Bisnis/Karir Umum
+user_1489,308432,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1490,106921,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1491,188878,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1492,446713,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1493,383477,0,1,0,1,0,0,5,1,0,Bisnis/Karir Umum
+user_1494,306697,0,1,0,0,0,1,5,1,0,Bisnis/Karir Umum
+user_1495,141641,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1496,446792,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1497,335233,0,1,0,0,0,0,5,0,1,Bisnis/Karir Umum
+user_1498,498960,0,1,0,0,0,0,5,1,0,Bisnis/Karir Umum
+user_1499,96434,0,1,0,0,0,0,5,1,1,Bisnis/Karir Umum
+user_1500,259637,0,1,1,0,0,0,5,1,1,Bisnis/Karir Umum
