@@ -1,13 +1,3 @@
-## 🎯 Latar Belakang Masalah
-
-Dataset ini dibuat oleh tim Data Science untuk mengatasi anomali kritis pada model rekomendasi Two-Tower TensorFlow milik tim AI Engineering. Sebelumnya, tim AI membuat data pelatihan dengan cara mengambil data lomba (item), menyuntikkan sedikit *noise*, lalu mengasumsikannya sebagai data preferensi user.
-
-Akibatnya, model mengalami kegagalan generalisasi dan hanya belajar bahwa **"vektor yang mirip dengan dirinya sendiri = cocok"**. Hal ini dibuktikan dari output inference di mana **semua skor keluar identik (`0.534875`)**, tidak peduli kombinasi user dan lomba apa yang diuji.
-
-Untuk mengatasinya, dataset `synthetic_users.csv` ini dirancang dengan menyajikan karakteristik *user* sesungguhnya yang bervariasi dan kontras, lengkap dengan panduan **Aturan Matching** untuk membentuk pasangan data pelatihan (user-item pairs) yang sehat dengan label `1` (positif) dan `0` (negatif).
-
----
-
 ## 📁 Struktur File & Aturan Kolom
 
 File yang dihasilkan adalah **`synthetic_users.csv`** (Berisi **1.500 baris data**, hasil dari 5 persona dasar × 300 variasi *user*).
@@ -105,7 +95,69 @@ lomba_negatif = df_lomba[((df_lomba['Domain_Seni_Kreatif'] == 1) | (df_lomba['Do
 # df_final.drop(columns=['Persona_Name'], inplace=True)
 
 ```
+📝 Dokumentasi Aturan Matching (Labeling Logic)
+Aturan ini menentukan bagaimana setiap Persona_Name dipasangkan dengan fitur lomba di hasil_feature.csv untuk menghasilkan label 1 (memiliki domain yang sesuai/relevan) dan label 0 (memiliki domain yang bertolak belakang/tidak relevan).
 
-Dengan beralih ke dataset berbasis persona riil ini, model *Two-Tower* Anda dipastikan akan belajar membaca korelasi antar-fitur secara menyilang, sehingga masalah keluaran skor identik `0.534875` dapat disembuhkan sepenuhnya.
+1. Persona: "Tech Mahasiswa Online"
 
-*** *Jika ada kendala mengenai distribusi persebaran nilai fitur atau penyesuaian rentang noise, silakan hubungi tim Data Science.*
+➔ Positif (label=1): Dipasangkan dengan lomba yang memiliki Domain_Teknologi == 1 ATAU Domain_Bisnis_Karir == 1.
+
+➔ Negatif (label=0): Dipasangkan dengan lomba yang memiliki Domain_Seni_Kreatif == 1 ATAU Domain_Olahraga_E-Sport == 1.
+
+2. Persona: "Kreator Seni SMA Offline"
+
+➔ Positif (label=1): Dipasangkan dengan lomba yang memiliki Domain_Seni_Kreatif == 1.
+
+➔ Negatif (label=0): Dipasangkan dengan lomba yang memiliki Domain_Teknologi == 1 ATAU Domain_Bisnis_Karir == 1.
+
+3. Persona: "Atlet SMP/SMA"
+
+➔ Positif (label=1): Dipasangkan dengan lomba yang memiliki Domain_Olahraga_E-Sport == 1.
+
+➔ Negatif (label=0): Dipasangkan dengan lomba yang memiliki Domain_Akademik == 1 ATAU Domain_Seni_Kreatif == 1.
+
+4. Persona: "Akademisi Mahasiswa"
+
+➔ Positif (label=1): Dipasangkan dengan lomba yang memiliki Domain_Akademik == 1.
+
+➔ Negatif (label=0): Dipasangkan dengan lomba yang memiliki Domain_Olahraga_E-Sport == 1 ATAU Domain_Seni_Kreatif == 1.
+
+5. Persona: "Bisnis/Karir Umum"
+
+➔ Positif (label=1): Dipasangkan dengan lomba yang memiliki Domain_Bisnis_Karir == 1.
+
+➔ Negatif (label=0): Dipasangkan dengan lomba yang memiliki Domain_Seni_Kreatif == 1 ATAU Domain_Olahraga_E-Sport == 1.
+
+💻 Format Komentar Kode (Python Docstring)
+Jika tim AI membutuhkan format ini untuk langsung diletakkan di dalam script ekstraksi data mereka, silakan gunakan blok ini:
+
+Python
+"""
+=======================================================================
+ATURAN MATCHING TRAINING PAIRS (USER SINTETIK -> LOMBA)
+=======================================================================
+Gunakan `Persona_Name` sebagai acuan untuk memfilter `hasil_feature.csv`.
+
+1. Tech Mahasiswa Online
+   - Positif (1) : Domain_Teknologi == 1 | Domain_Bisnis_Karir == 1
+   - Negatif (0) : Domain_Seni_Kreatif == 1 | Domain_Olahraga_E-Sport == 1
+
+2. Kreator Seni SMA Offline
+   - Positif (1) : Domain_Seni_Kreatif == 1
+   - Negatif (0) : Domain_Teknologi == 1 | Domain_Bisnis_Karir == 1
+
+3. Atlet SMP/SMA
+   - Positif (1) : Domain_Olahraga_E-Sport == 1
+   - Negatif (0) : Domain_Akademik == 1 | Domain_Seni_Kreatif == 1
+
+4. Akademisi Mahasiswa
+   - Positif (1) : Domain_Akademik == 1
+   - Negatif (0) : Domain_Olahraga_E-Sport == 1 | Domain_Seni_Kreatif == 1
+
+5. Bisnis/Karir Umum
+   - Positif (1) : Domain_Bisnis_Karir == 1
+   - Negatif (0) : Domain_Seni_Kreatif == 1 | Domain_Olahraga_E-Sport == 1
+
+Catatan: Buang (drop) kolom `Persona_Name` sebelum masuk layer model.
+=======================================================================
+"""
